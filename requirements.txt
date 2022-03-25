@@ -1,0 +1,8 @@
+numpy
+openpyxl
+pandas
+pytz
+six
+wheel
+et-xmlfile
+xlrd

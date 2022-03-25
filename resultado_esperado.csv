@@ -1,0 +1,117 @@
+linea,sentido,tipodia,sublinea,tr_optimo,tr_minimo,tr_maximo,nodo,nodo_2
+1,1,Habil,1426,0 days 00:28:57,0 days 00:27:34,0 days 01:04:34,Portal Tunal T6,Portal Suba T3
+1,1,Habil,1427,0 days 00:28:00,0 days 00:27:00,0 days 01:05:15,Portal Tunal T6,Portal Suba T3
+1,2,Habil,1426,0 days 00:15:14,0 days 00:14:23,0 days 00:44:06,Portal Suba T3,Portal Tunal T6
+1,2,Habil,1427,0 days 00:15:15,0 days 00:14:15,0 days 00:41:30,Portal Suba T3,Portal Tunal T6
+2,1,Habil,1453,0 days 00:54:45,0 days 00:51:45,0 days 01:03:30,Portal Sur T6,Flores B - 4 ó 6
+2,2,Habil,1453,0 days 00:55:15,0 days 00:51:45,0 days 01:11:00,Flores B - 4 ó 6,Portal Sur T6
+4,1,Habil,1210,0 days 00:24:30,0 days 00:24:15,0 days 00:34:30,Toberín D - 2,Calle 72 C - 2
+6,1,Habil,1379,0 days 00:42:15,0 days 00:39:45,0 days 00:55:15,Portal 80 T-2,Portal Norte T1
+6,2,Habil,1379,0 days 00:19:36,0 days 00:18:36,0 days 00:32:13,Portal Norte T1,Portal 80 T-2
+7,1,Habil,1459,0 days 00:57:40,0 days 00:53:10,0 days 01:13:45,Portal Sur T3,Portal Norte T4
+7,1,Habil,1460,0 days 00:56:51,0 days 00:53:44,0 days 01:00:28,G. Santander A - 2 ó 5,Portal Norte T4
+7,2,Habil,1459,0 days 00:20:12,0 days 00:19:10,0 days 00:53:17,Portal Norte T4,Portal Sur T3
+7,2,Habil,1460,0 days 00:51:22,0 days 00:48:57,0 days 00:55:02,Portal Norte T4,G. Santander A - 2 ó 5
+8,1,Habil,1496,0 days 00:14:17,0 days 00:13:40,0 days 01:11:00,Portal Tunal T1,Portal Norte T5A
+8,2,Habil,1496,0 days 00:18:30,0 days 00:17:28,0 days 01:09:32,Portal Norte T5A,Portal Tunal T1
+9,1,Habil,1524,0 days 00:02:00,0 days 00:01:26,0 days 01:15:52,Portal Américas T2 A,Portal Norte T2A
+9,2,Habil,1524,0 days 00:21:21,0 days 00:20:13,0 days 01:20:48,Portal Norte T2A,Portal Américas T2 A
+10,1,Habil,1482,0 days 00:50:20,0 days 00:46:58,0 days 01:07:26,Portal Eldorado T-2,Terminal A - 4 ó 6
+10,2,Habil,1482,0 days 00:08:15,0 days 00:07:45,0 days 00:59:44,Terminal A - 4 ó 6,Portal Eldorado T-2
+11,1,Habil,1462,0 days 01:08:02,0 days 01:04:28,0 days 01:24:30,Portal Tunal T2,Portal Norte T5A
+11,2,Habil,1462,0 days 01:12:46,0 days 01:08:00,0 days 01:25:30,Portal Norte T5A,Portal Tunal T2
+12,1,Habil,1487,0 days 00:04:35,0 days 00:04:19,0 days 00:59:57,Portal Américas T3,Portal Norte T2B
+12,2,Habil,1487,0 days 00:17:21,0 days 00:16:43,0 days 01:08:54,Portal Norte T2B,Portal Américas T3
+14,1,Habil,1497,0 days 00:54:00,0 days 00:48:15,0 days 01:00:00,Portal Suba T8,Calle 161 B - 1
+14,2,Habil,1497,0 days 00:49:59,0 days 00:47:58,0 days 00:57:49,Calle 161 B - 1,Portal Suba T8
+15,1,Habil,1488,0 days 01:10:45,0 days 01:07:45,0 days 01:20:54,Portal Américas T2 B,Alcalá C - 4 ó 6
+18,1,Habil,1377,0 days 00:20:00,0 days 00:18:45,0 days 00:21:45,Portal 80 T-4,Héroes C - 4
+19,1,Habil,1361,0 days 00:32:30,0 days 00:28:00,0 days 00:34:45,Portal Suba T8,Héroes B - 4 ó 6
+21,1,Habil,1415,0 days 00:48:32,0 days 00:44:31,0 days 01:07:12,Aguas A - 2 ó 5,Portal Norte T1
+21,1,Habil,1416,0 days 00:45:39,0 days 00:43:21,0 days 00:47:56,Universidades B - 4 ó 6,Portal Norte T1
+21,1,Habil,1417,0 days 00:43:32,0 days 00:41:21,0 days 00:45:42,Portal Norte T1,Universidades B - 2 ó 5
+21,2,Habil,1415,0 days 00:50:40,0 days 00:47:35,0 days 01:11:22,Portal Norte T1,Aguas A - 2 ó 5
+26,1,Habil,1498,0 days 00:29:55,0 days 00:29:05,0 days 01:09:02,Portal Usme T4,Portal Suba T4
+26,2,Habil,1498,0 days 01:26:22,0 days 01:22:07,0 days 01:57:52,Portal Suba T4,Portal Usme T4
+27,1,Habil,1523,0 days 00:08:23,0 days 00:08:08,0 days 01:21:51,Banderas T1,Portal Suba T6
+27,2,Habil,1523,0 days 00:05:19,0 days 00:05:11,0 days 01:18:48,Portal Suba T6,Banderas T1
+28,1,Habil,1500,0 days 00:05:21,0 days 00:05:15,0 days 01:14:49,Portal Suba T1,Portal Sur T1
+28,2,Habil,1500,0 days 00:12:05,0 days 00:11:38,0 days 00:43:14,Portal Sur T1,Portal Suba T1
+32,1,Habil,1501,0 days 01:14:04,0 days 01:10:04,0 days 01:32:28,Portal Usme T1B,Portal 80 T-1B
+32,2,Habil,1501,0 days 01:11:21,0 days 01:07:36,0 days 01:48:24,Portal 80 T-1B,Portal Usme T1B
+33,1,Habil,1447,0 days 00:24:00,0 days 00:22:37,0 days 00:43:51,Portal Sur T7,Portal 80 T-3
+33,2,Habil,1447,0 days 00:07:57,0 days 00:07:36,0 days 01:01:14,Portal 80 T-3,Portal Sur T7
+39,1,Habil,1480,0 days 00:42:30,0 days 00:40:15,0 days 00:45:30,Portal Américas T3 B,NQS - Calle 75 B - 4 ó 6
+39,1,Habil,1481,0 days 00:48:30,0 days 00:45:45,0 days 01:11:15,NQS - Calle 75 A - 1,Portal Américas T3 B
+40,1,Habil,1492,0 days 00:40:08,0 days 00:36:27,0 days 00:51:04,Portal Américas T6,Aguas A - 2 ó 5
+40,1,Habil,1493,0 days 00:32:13,0 days 00:30:29,0 days 00:35:00,Banderas T3,Aguas A - 2 ó 5
+40,2,Habil,1492,0 days 00:09:56,0 days 00:09:17,0 days 00:44:13,Aguas A - 2 ó 5,Portal Américas T6
+40,2,Habil,1493,0 days 00:31:20,0 days 00:30:07,0 days 00:34:00,Aguas A - 2 ó 5,Banderas T3
+41,1,Habil,1139,0 days 01:11:06,0 days 01:07:33,0 days 01:18:34,Portal Américas T7,Granja - Cra. 77 D - 4 ó 6
+41,1,Habil,1380,0 days 01:15:45,0 days 01:12:00,0 days 01:43:30,Granja - Cra. 77 C - 2 ó 5,Portal Américas T7
+43,1,Habil,1456,0 days 01:09:40,0 days 01:05:39,0 days 01:25:57,Portal Sur T5,Terminal A - 3
+43,2,Habil,1456,0 days 00:09:30,0 days 00:09:10,0 days 00:57:19,Terminal A - 3,Portal Sur T5
+45,1,Habil,1223,0 days 00:56:53,0 days 00:54:10,0 days 01:02:17,Portal 80 T-1A,Calle 40 S. B - 2 ó 5
+45,1,Habil,1382,0 days 00:14:48,0 days 00:14:05,0 days 00:37:50,Portal Tunal T7,Portal 80 T-1A
+45,1,Habil,1383,0 days 01:18:18,0 days 01:12:20,0 days 01:22:13,Portal Tunal T7,Av. Cali A - 4 ó 6
+45,2,Habil,1382,0 days 00:06:35,0 days 00:06:16,0 days 01:21:19,Portal 80 T-1A,Portal Tunal T7
+47,1,Habil,1218,0 days 00:28:00,0 days 00:25:00,0 days 00:32:15,Mazurén C - 1,Calle 57 C - 2
+48,1,Habil,1502,0 days 01:17:00,0 days 01:13:45,0 days 01:32:15,Portal Tunal T4,Toberín A - 4 ó 6
+50,1,Habil,1251,0 days 00:24:40,0 days 00:22:57,0 days 01:12:55,Toberín E - 1,Portal Usme T5
+50,1,Habil,1469,0 days 00:11:02,0 days 00:10:17,0 days 01:06:41,Portal Usme T5,Toberín B - 4 ó 6
+51,1,Habil,1471,0 days 01:14:21,0 days 01:09:16,0 days 01:33:32,Toberín E - 1,Portal Tunal T5
+52,1,Habil,1503,0 days 00:18:32,0 days 00:17:08,0 days 00:50:56,Portal Norte T5B,Portal Usme T6
+52,2,Habil,1503,0 days 00:12:12,0 days 00:11:46,0 days 00:51:50,Portal Usme T6,Portal Norte T5B
+53,1,Habil,1425,0 days 00:40:42,0 days 00:36:26,0 days 00:53:11,Universidades B - 4 ó 6,Portal 80 T-2
+53,2,Habil,1425,0 days 00:08:57,0 days 00:08:37,0 days 00:36:25,Portal 80 T-2,Universidades A - 2 ó 5
+54,1,Habil,985,0 days 00:05:45,0 days 00:05:45,0 days 00:53:15,Portal Norte T1,Aguas A - 1
+55,1,Habil,1422,0 days 00:06:58,0 days 00:06:44,0 days 00:50:58,Portal Suba T7,Universidades A - 2 ó 5
+55,1,Habil,1423,0 days 00:48:22,0 days 00:45:22,0 days 01:03:11,Universidades A - 4 ó 6,Portal Suba T7
+56,1,Habil,1019,0 days 00:19:15,0 days 00:18:15,0 days 00:26:30,Portal Eldorado T-5,PORTAL 20 DE JULIO T3
+56,1,Habil,1435,0 days 00:48:00,0 days 00:44:00,0 days 01:03:00,Portal Eldorado T-5,PORTAL 20 DE JULIO T3
+56,2,Habil,1019,0 days 00:18:00,0 days 00:17:00,0 days 00:23:45,PORTAL 20 DE JULIO T3,Portal Eldorado T-5
+56,2,Habil,1435,0 days 00:47:00,0 days 00:43:45,0 days 01:01:00,PORTAL 20 DE JULIO T3,Portal Eldorado T-5
+105,1,Habil,1504,0 days 01:22:19,0 days 01:18:35,0 days 01:35:05,Portal Américas T9,Portal Suba T5
+105,2,Habil,1504,0 days 01:23:14,0 days 01:19:42,0 days 01:38:29,Portal Suba T5,Portal Américas T9
+108,1,Habil,1431,0 days 01:02:15,0 days 00:58:08,0 days 01:21:20,PORTAL 20 DE JULIO T9,Terminal A - 4 ó 6
+108,1,Habil,1432,0 days 01:05:39,0 days 01:01:36,0 days 01:09:17,Av. 1º de Mayo C - 3 ó 6,Terminal A - 4 ó 6
+108,2,Habil,1431,0 days 01:01:28,0 days 00:57:47,0 days 01:27:26,Terminal A - 4 ó 6,PORTAL 20 DE JULIO T9
+109,1,Habil,1429,0 days 00:47:52,0 days 00:44:31,0 days 01:00:04,Portal Eldorado T-3B,Alcalá B - 4 ó 6
+109,1,Habil,1430,0 days 00:49:45,0 days 00:46:30,0 days 01:14:30,Alcalá C - 2 ó 5,Portal Eldorado T-3B
+110,1,Habil,1434,0 days 00:57:45,0 days 00:53:30,0 days 01:32:49,Portal Eldorado T-4,Portal Usme T2A
+110,2,Habil,1434,0 days 00:05:30,0 days 00:05:00,0 days 00:50:00,Portal Usme T2A,Portal Eldorado T-4
+111,1,Habil,1414,0 days 00:09:45,0 days 00:09:15,0 days 00:46:30,Portal Américas T4,Museo Nacional A - 3 ó 6
+111,2,Habil,1414,0 days 00:42:33,0 days 00:40:25,0 days 00:59:49,Museo Nacional A - 3 ó 6,Portal Américas T4
+112,1,Habil,931,0 days 00:40:00,0 days 00:38:00,0 days 01:02:45,San Mateo C - 2 ó 5,CAD B - 2 ó 5
+112,1,Habil,1039,0 days 00:22:30,0 days 00:21:00,0 days 00:45:30,San Mateo C - 2 ó 5,Portal Eldorado T-1
+112,2,Habil,931,0 days 00:36:35,0 days 00:35:26,0 days 00:52:48,CAD B - 2 ó 5,San Mateo C - 2 ó 5
+112,2,Habil,1013,0 days 00:03:17,0 days 00:03:07,0 days 00:27:22,Portal Eldorado T-1,San Mateo C - 2 ó 5
+112,2,Habil,1039,0 days 00:10:05,0 days 00:09:44,0 days 00:39:16,Portal Eldorado T-1,San Mateo C - 2 ó 5
+132,1,Habil,1378,0 days 01:02:45,0 days 00:59:15,0 days 01:09:30,Portal Usme T2B,Escuela Militar A - 4 ó 6
+134,1,Habil,1404,0 days 00:15:15,0 days 00:13:45,0 days 00:20:00,Portal Sur T4,San Mateo A - 1
+134,2,Habil,1404,0 days 00:16:45,0 days 00:14:45,0 days 00:20:30,San Mateo A - 1,Portal Sur T4
+203,1,Habil,1457,0 days 00:40:40,0 days 00:36:45,0 days 00:51:35,Portal Sur T9,Museo Nacional A - 2 ó 5
+203,2,Habil,1457,0 days 00:09:30,0 days 00:06:30,0 days 00:47:30,Museo Nacional A - 2 ó 5,Portal Sur T9
+262,1,Habil,1038,0 days 00:05:48,0 days 00:05:31,0 days 00:24:07,Portal Eldorado T-6B,Universidades B - 2 ó 5
+262,2,Habil,1038,0 days 00:25:52,0 days 00:24:08,0 days 00:31:03,Universidades B - 2 ó 5,Portal Eldorado T-6B
+263,1,Habil,1072,0 days 00:25:40,0 days 00:22:47,0 days 00:31:21,PORTAL 20 DE JULIO T7,Museo Nacional B - 1 ó 5
+263,2,Habil,1072,0 days 00:24:21,0 days 00:22:26,0 days 00:28:35,Museo Nacional B - 1 ó 5,PORTAL 20 DE JULIO T7
+264,1,Habil,1505,0 days 00:46:42,0 days 00:42:42,0 days 01:00:51,Portal Usme T6,Concejo de Bogotá A - 4 ó 6
+264,2,Habil,1505,0 days 00:49:21,0 days 00:44:51,0 days 01:07:03,Concejo de Bogotá A - 4 ó 6,Portal Usme T6
+265,1,Habil,1477,0 days 00:53:49,0 days 00:51:08,0 days 01:04:58,Portal Sur T2,Héroes A - 4 ó 6
+265,2,Habil,1477,0 days 00:25:59,0 days 00:24:15,0 days 00:42:00,Héroes A - 4 ó 6,Portal Sur T2
+266,1,Habil,1522,0 days 00:15:19,0 days 00:14:25,0 days 00:30:28,Portal Américas T8,Calle 22 B - 4 ó 6
+266,2,Habil,1522,0 days 00:40:45,0 days 00:37:31,0 days 01:01:00,Calle 22 B - 4 ó 6,Portal Américas T8
+267,1,Habil,1299,0 days 00:48:00,0 days 00:44:30,0 days 01:01:15,Portal 80 T-4,Universidades A - 2 ó 5
+267,1,Habil,1300,0 days 00:08:30,0 days 00:08:00,0 days 00:31:45,Universidades B - 4 ó 6,Portal 80 T-4
+268,1,Habil,1397,0 days 00:50:00,0 days 00:47:00,0 days 01:06:15,Santa Isabel A - 4 ó 6,Portal Suba T2
+268,1,Habil,1506,0 days 00:51:00,0 days 00:47:45,0 days 01:07:00,Portal Suba T2,Santa Isabel A - 2 ó 5
+269,1,Habil,1463,0 days 00:26:41,0 days 00:24:52,0 days 00:47:38,Terminal A - 1,Guatoque - Veraguas A - 3 ó 6
+269,1,Habil,1464,0 days 00:11:14,0 days 00:10:19,0 days 00:39:51,Guatoque - Veraguas B - 1 ó 5,Terminal A - 4 ó 6
+305,1,Habil,1465,0 days 00:06:40,0 days 00:06:29,0 days 01:14:26,San Mateo B - 4 ó 6,Portal Norte T4
+305,1,Habil,1466,0 days 01:06:49,0 days 01:02:04,0 days 01:13:04,San Mateo B - 4 ó 6,Alcalá A - 4 ó 6
+305,1,Habil,1467,0 days 00:10:18,0 days 00:09:56,0 days 00:55:20,Portal Norte T4,San Mateo B - 2 ó 5
+333,1,Habil,1521,0 days 01:02:00,0 days 00:58:45,0 days 01:17:40,PORTAL 20 DE JULIO T4,Portal Suba T7
+333,2,Habil,1521,0 days 01:01:21,0 days 00:58:17,0 days 01:15:25,Portal Suba T7,PORTAL 20 DE JULIO T4
+334,1,Habil,1454,0 days 00:42:30,0 days 00:40:00,0 days 00:56:15,Bicentenario B - 4 ó 6,San Mateo B - 2 ó 5
+334,1,Habil,1455,0 days 00:42:30,0 days 00:40:15,0 days 00:53:45,San Mateo A - 4,Bicentenario C - 2 ó 5
